@@ -1,0 +1,5 @@
+.idea/
+*.iml
+.allure/
+.mvn/
+allure-results/
